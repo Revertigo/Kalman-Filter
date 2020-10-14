@@ -5,3 +5,12 @@
 ![kf3](https://user-images.githubusercontent.com/46284863/96055009-a5cf4780-0e8b-11eb-8e92-ff05adfccced.png)
 
 ![build passing](https://img.shields.io/badge/build-passing-brightgreen) ![algorithm kalman-filter](https://img.shields.io/badge/algorithm-kalman--filter-red) ![python v3.6.8](https://img.shields.io/badge/python-v3.6.8-blue)
+
+# TABLE OF CONTENTS
+* [Overview](#overview)
+
+# Overview
+This project is an implementation of kalman filter algorithm as part of Navigation Algorithms course.
+The algorithm is used in the context of localization and tracking a moving object in a 2D space dimension.
+The simulation (of the algorithm) shows how a combination of dynamic prediction of future states (based on current state) and sensor's 
+measurements can be used together to trace a system which moves in a linearic manner.
